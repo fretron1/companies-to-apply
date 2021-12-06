@@ -135,6 +135,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [FreeCharge](https://careers.freecharge.in/)  
 1.   [Freshworks](https://www.freshworks.com/company/life-at-freshworks/careers/)
 1.   [fyle](https://www.fylehq.com/company/team/join)
+1.   [Fretron](https://fretron.com/)
 
 ## G  
 1.   [Garuda Aerospace private Ltd](https://www.garudaaerospace.com/)
